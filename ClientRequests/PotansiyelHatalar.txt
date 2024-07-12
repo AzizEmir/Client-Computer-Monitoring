@@ -1,0 +1,10 @@
+CPU_PERCENT
+	Traceback (most recent call last):
+	  File "<stdin>", line 1, in <module>
+	ModuleNotFoundError: No module named 'psutil'
+
+	ÇÖZÜM:
+		# sudo apt install pip
+		# pip install psutil --break-system-packages
+
+
